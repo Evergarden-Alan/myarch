@@ -65,3 +65,4 @@ function y
         rm -f -- "$tmp"
     end
 end
+alias dot='/usr/bin/git --git-dir=/home/alan/.dotfiles/ --work-tree=/home/alan'
