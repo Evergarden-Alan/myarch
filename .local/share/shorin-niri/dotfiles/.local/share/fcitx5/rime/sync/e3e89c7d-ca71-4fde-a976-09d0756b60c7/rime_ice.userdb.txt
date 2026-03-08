@@ -1,0 +1,259 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.16.1
+#@/tick	387
+#@/user_id	e3e89c7d-ca71-4fde-a976-09d0756b60c7
+an xia 	按下	c=2 d=1.64816 t=387
+an zhuang 	安装	c=1 d=0.891366 t=387
+an zhuang hao 	安装好	c=1 d=0.937067 t=387
+ba 	把	c=3 d=2.19086 t=387
+ban fa 	办法	c=1 d=0.814647 t=387
+bao 	包	c=3 d=2.84622 t=387
+bei 	呗	c=1 d=1 t=384
+bei fen 	备份	c=0 d=0.067032 t=387
+bei fen cang ku 	备份仓库	c=1 d=0.67368 t=387
+bi ru 	比如	c=1 d=0.946485 t=387
+bie de 	别的	c=1 d=1 t=371
+bing qie 	并且	c=1 d=0.778801 t=387
+cai hui 	才会	c=1 d=0.995012 t=387
+cang ku 	仓库	c=1 d=0.965605 t=387
+cang ku li 	仓库里	c=1 d=0.88692 t=387
+cao zuo 	操作	c=1 d=1 t=381
+cha kan 	查看	c=2 d=1.67535 t=387
+chu 	除	c=1 d=0.71177 t=387
+chuang jian 	创建	c=2 d=1.94111 t=387
+chuang kou 	窗口	c=6 d=4.7838 t=387
+ci shi 	此时	c=1 d=0.927743 t=387
+dan shi 	但是	c=1 d=0.99005 t=387
+dan yuan 	单元	c=0 d=0.0985112 t=387
+dan yuan wen jian 	单元文件	c=1 d=0.99005 t=387
+dang qian 	当前	c=3 d=1.94421 t=387
+dang qian de 	当前的	c=1 d=0.965605 t=387
+dao chu 	导出	c=1 d=0.913931 t=387
+de 	地	c=1 d=0.909373 t=387
+de 	的	c=17 d=8.9061 t=387
+di 	底	c=0 d=0.0932394 t=387
+di gui 	递归	c=1 d=0.927743 t=387
+dian 	点	c=1 d=0.683861 t=387
+diao 	掉	c=1 d=0.847894 t=387
+duo xian cheng 	多线程	c=1 d=0.99005 t=387
+e 	额	c=1 d=0.946485 t=387
+en 	嗯	c=1 d=0.767206 t=387
+er 	而	c=1 d=0.860708 t=387
+fan er 	反而	c=1 d=0.740818 t=387
+fang an 	方案	c=1 d=1 t=379
+fang fa 	方法	c=1 d=0.873716 t=387
+fen bie 	分别	c=1 d=0.99005 t=387
+fen san 	分散	c=0 d=0.0763379 t=387
+fen san de 	分散的	c=1 d=0.767206 t=387
+fu gai le 	覆盖了	c=1 d=0.755784 t=387
+gai le 	改了	c=1 d=0.985112 t=387
+ge 	个	c=1 d=0.895834 t=387
+gei wo 	给我	c=1 d=1 t=377
+geng fang bian 	更方便	c=1 d=1 t=373
+gong ju 	工具	c=2 d=1.67156 t=387
+gong neng 	功能	c=1 d=0.941765 t=387
+gong neng shi 	功能室	c=1 d=0.839457 t=387
+gou cheng 	构成	c=1 d=0.733447 t=387
+guan li 	管理	c=2 d=1.73594 t=387
+guan li de 	管理的	c=1 d=0.955997 t=387
+guan li jie gou 	管理结构	c=1 d=0.786628 t=387
+guo lv 	过滤	c=0 d=0.0798516 t=387
+guo lv nei rong 	过滤内容	c=1 d=0.802519 t=387
+hai shi shuo 	还是说	c=1 d=0.927743 t=387
+hai you 	还有	c=1 d=0.937067 t=387
+han yi 	含义	c=1 d=1 t=383
+he 	和	c=2 d=1.78996 t=387
+hen 	很	c=1 d=0.980199 t=387
+hen man 	很慢	c=1 d=0.985112 t=387
+hou 	后	c=3 d=2.3641 t=387
+huo 	或	c=2 d=1.72048 t=387
+huo zhe 	或者	c=1 d=0.729789 t=387
+ji 	及	c=1 d=0.995012 t=387
+ji qi 	及其	c=1 d=0.965605 t=387
+ji qi shang 	机器上	c=1 d=0.694197 t=387
+ji xu rang 	继续让	c=1 d=0.891366 t=387
+jia 	夹	c=1 d=0.806541 t=387
+jia su 	加速	c=2 d=1.76985 t=387
+jian ce yi xia 	检测一下	c=1 d=0.909373 t=387
+jian cha 	检查	c=2 d=1.69598 t=387
+jian li 	建立	c=1 d=0.782705 t=387
+jiang 	将	c=1 d=0.763379 t=387
+jiao ben 	脚本	c=3 d=2.15562 t=387
+jie guo 	结果	c=1 d=0.895834 t=387
+jie jue 	解决	c=1 d=0.882497 t=387
+jie shi yi xia 	解释一下	c=1 d=1 t=378
+jin ru 	进入	c=2 d=1.7357 t=387
+jiu yi jing 	就已经	c=1 d=0.941765 t=387
+kai 	开	c=1 d=0.985112 t=387
+kai qi 	开启	c=1 d=0.970446 t=387
+ke xue 	科学	c=1 d=0.904837 t=387
+ke yi 	可以	c=4 d=2.67541 t=387
+kuai jie jian 	快捷键	c=4 d=3.0942 t=387
+kuai yi dian 	快一点	c=1 d=0.818731 t=387
+le 	了	c=3 d=2.4509 t=387
+lei si de 	类似的	c=1 d=1 t=372
+lian jie 	链接	c=1 d=0.726149 t=387
+liang ge 	两个	c=1 d=0.726149 t=387
+lie 	列	c=2 d=1.9218 t=387
+lie biao 	列表	c=1 d=0.923116 t=387
+liu lan 	浏览	c=0 d=0.0882497 t=387
+liu lan de 	浏览的	c=1 d=0.88692 t=387
+lu jing 	路径	c=2 d=1.49188 t=387
+ma 	吗	c=4 d=3.30443 t=387
+mei ge 	每个	c=1 d=1 t=380
+mei shen me 	没什么	c=1 d=0.995012 t=387
+mei you 	没有	c=2 d=1.16769 t=387
+mei you wen ti 	没有问题	c=0 d=0.0900325 t=387
+mei you wen ti le 	没有问题了	c=1 d=0.904837 t=387
+ming e 	名额	c=0 d=0.0806541 t=387
+ming ling 	命令	c=2 d=1.66866 t=387
+mo ren 	默认	c=0 d=0.097531 t=387
+mo ren xia zai lu jing 	默认下载路径	c=1 d=0.980199 t=387
+mou ge 	某个	c=1 d=0.895834 t=387
+mu lu 	目录	c=1 d=0.891366 t=387
+na 	那	c=1 d=0.941765 t=387
+na ge 	那个	c=1 d=0.852144 t=387
+na ge qu yu 	哪个区域	c=1 d=0.847894 t=387
+na yi lie 	那一列	c=1 d=0.826959 t=387
+nei 	内	c=2 d=1.65564 t=387
+nei rong 	内容	c=0 d=0.0798516 t=387
+neng 	能	c=1 d=0.980199 t=387
+pei he 	配合	c=1 d=0.904837 t=387
+pei zhi 	配置	c=9 d=6.04655 t=387
+pei zhi wen jian 	配置文件	c=3 d=2.51977 t=387
+ping fen 	平分	c=1 d=0.843665 t=387
+qi dong 	启动	c=1 d=0.995012 t=387
+qian 	前	c=0 d=0.0786628 t=387
+qie huan dao 	切换到	c=1 d=0.873716 t=387
+qing chu 	清除	c=1 d=0.70822 t=387
+qing kuang 	情况	c=1 d=1 t=387
+qu yu 	区域	c=1 d=0.856415 t=387
+quan 	全	c=1 d=0.677057 t=387
+quan bu 	全部	c=1 d=0.918512 t=387
+rang 	让	c=1 d=0.744532 t=387
+ru guo 	如果	c=1 d=0.882497 t=387
+ru he 	如何	c=11 d=5.65434 t=387
+ru he shi yong 	如何使用	c=2 d=1.63377 t=387
+ruan 	软	c=1 d=0.722527 t=387
+ruan lian jie 	软链接	c=4 d=3.27395 t=387
+sao miao yi xia 	扫描一下	c=1 d=0.951229 t=387
+shang xia 	上下	c=1 d=0.839457 t=387
+she zhi 	设置	c=0 d=0.0946485 t=387
+shen fen 	身份	c=2 d=1.86437 t=387
+shen me 	什么	c=2 d=1.65041 t=387
+sheng xiao 	生效	c=1 d=1 t=387
+shi 	时	c=2 d=1.53968 t=387
+shi 	是	c=6 d=4.88119 t=387
+shi bu shi 	是不是	c=3 d=2.40751 t=387
+shi bu shi yao 	是不是要	c=1 d=0.970446 t=387
+shi fou 	是否	c=2 d=1.8509 t=387
+shi shen me 	是什么	c=1 d=1 t=387
+shi xian 	实现	c=2 d=1.69577 t=387
+shi xiao 	失效	c=1 d=0.97531 t=387
+shi xiao le 	失效了	c=1 d=0.852144 t=387
+shou ji qi lai 	收集起来	c=1 d=0.774916 t=387
+si hu 	似乎	c=1 d=0.970446 t=387
+ta 	它	c=1 d=0.980199 t=387
+ta men 	他们	c=1 d=0.748264 t=387
+tai man le 	太慢了	c=1 d=0.806541 t=387
+ti huan 	替换	c=3 d=2.51594 t=387
+tong guo 	通过	c=1 d=0.923116 t=387
+tui chu 	退出	c=1 d=0.865022 t=387
+tuo guan 	托管	c=1 d=0.918512 t=387
+tuo li 	脱离	c=1 d=0.932394 t=387
+wei 	为	c=1 d=0.918512 t=387
+wei le 	为了	c=1 d=0.970446 t=387
+wei shen me 	为什么	c=2 d=1.45363 t=387
+wei zhi 	位置	c=1 d=0.97531 t=387
+wen jian 	文件	c=5 d=3.51073 t=387
+wen jian jia 	文件夹	c=3 d=2.62931 t=387
+wen ti 	问题	c=1 d=0.995012 t=387
+wo 	我	c=0 d=0.0701173 t=387
+wo chang shi le 	我尝试了	c=1 d=0.869358 t=387
+wo dang 	我党	c=0 d=0.0786628 t=387
+wo dang qian 	我党前	c=1 d=0.790571 t=387
+wo de 	我的	c=5 d=3.7578 t=387
+wo hai you 	我还有	c=1 d=0.88692 t=387
+wo ru he 	我如何	c=1 d=0.704688 t=387
+wo shi 	我是	c=0 d=0.0891366 t=387
+wo shi yong de 	我是用的	c=1 d=0.895834 t=387
+wo xi wang 	我希望	c=1 d=0.822835 t=387
+wo xi wang de 	我希望的	c=2 d=1.52672 t=387
+wo xian zai 	我现在	c=1 d=0.878095 t=387
+wo xiang 	我想	c=2 d=1.64036 t=387
+wo xiang she zhi 	我想设置	c=1 d=0.951229 t=387
+wo ying gai 	我应该	c=1 d=0.913931 t=387
+wo zhe ge 	我这个	c=1 d=0.67032 t=387
+wo zhi jie 	我直接	c=1 d=1 t=385
+xia 	下	c=8 d=5.86164 t=387
+xia zai 	下载	c=2 d=1.83249 t=387
+xia zai lu jing 	下载路径	c=0 d=0.097531 t=387
+xian zai 	现在	c=2 d=1.48893 t=387
+xiang xia 	向下	c=1 d=0.932394 t=387
+xiang you 	向右	c=2 d=1.7291 t=387
+xiang zuo 	向左	c=2 d=1.71189 t=387
+xin de 	新的	c=1 d=0.970446 t=387
+yi 	一	c=1 d=0.891366 t=387
+yi dong 	移动	c=2 d=1.73777 t=387
+yi dong dao 	移动到	c=2 d=1.58862 t=387
+yi dong de 	移动的	c=1 d=0.748264 t=387
+yi ge 	一个	c=3 d=2.08073 t=387
+yi ge chuang kou 	一个窗口	c=1 d=0.71177 t=387
+yi ji 	以及	c=1 d=0.970446 t=387
+yi jing 	已经	c=1 d=0.980199 t=387
+ying gai 	应该	c=3 d=2.01029 t=387
+yong 	用	c=7 d=3.6127 t=387
+yong dai li 	用代理	c=1 d=0.995012 t=387
+yong de 	用的	c=0 d=0.0891366 t=387
+yong ta men 	用它们	c=1 d=0.826959 t=387
+yong yi ge 	用一个	c=1 d=0.755784 t=387
+you 	有	c=2 d=1.70908 t=387
+you 	由	c=2 d=1.36 t=387
+you hen duo 	有很多	c=1 d=0.814647 t=387
+you na xie 	有哪些	c=1 d=0.831104 t=387
+you shen me 	有什么	c=1 d=1.06584 t=387
+you shen me ming e 	有什么名额	c=1 d=0.810584 t=387
+you wen ti 	有问题	c=1 d=0.97531 t=387
+yu 	与	c=1 d=0.818731 t=387
+yuan ben 	原本	c=2 d=1.75991 t=387
+yuan lai de 	原来的	c=1 d=0.759572 t=387
+zai 	再	c=4 d=3.36756 t=387
+zai 	在	c=6 d=4.40745 t=387
+zai ci 	再次	c=1 d=0.865022 t=387
+zen me ban 	怎么办	c=3 d=2.18824 t=387
+zhao 	找	c=1 d=0.909373 t=387
+zhao dao 	找到	c=0 d=0.0932394 t=387
+zhao dao di 	找到底	c=1 d=0.937067 t=387
+zhe ge 	这个	c=4 d=2.58859 t=387
+zhe ge han shu 	这个函数	c=1 d=0.965605 t=387
+zhe liang tiao 	这两条	c=1 d=0.932394 t=387
+zhe san ge 	这三个	c=1 d=0.980199 t=387
+zhe shi 	这是	c=1 d=0.99005 t=387
+zhe xie 	这些	c=1 d=0.852144 t=387
+zhe yang 	这样	c=1 d=0.88692 t=387
+zhe yang de 	这样的	c=1 d=0.937067 t=387
+zhen shi 	真实	c=1 d=0.82065 t=387
+zhen shi wen jian 	真实文件	c=1 d=0.839457 t=387
+zheng ce 	政策	c=1 d=0.985112 t=387
+zheng chang 	正常	c=1 d=0.99005 t=387
+zheng que 	正确	c=1 d=0.923116 t=387
+zheng zai 	正在	c=1 d=0.882497 t=387
+zhi 	只	c=2 d=1.77703 t=387
+zhi hou 	之后	c=3 d=2.42448 t=387
+zhi xiang 	指向	c=1 d=0.831104 t=387
+zhi xing 	执行	c=1 d=0.860708 t=387
+zhi zhen 	指针	c=2 d=1.79015 t=387
+zhong duan 	终端	c=1 d=0.865022 t=387
+zhuang tai 	状态	c=1 d=0.960789 t=387
+zi cheng 	自成	c=1 d=0.965605 t=387
+zi dong hua 	自动化	c=1 d=0.932394 t=387
+zi ji 	自己	c=1 d=0.960789 t=387
+zi ji de 	自己的	c=1 d=0.923116 t=387
+zi qi dong 	自启动	c=1 d=1 t=387
+zi ti 	字体	c=2 d=1.74307 t=387
+zu gou le 	足够了	c=1 d=0.946485 t=387
+zu he 	组合	c=1 d=0.955997 t=387
+zuo bian de 	左边的	c=1 d=0.718924 t=387
+zuo yong 	作用	c=1 d=1 t=387

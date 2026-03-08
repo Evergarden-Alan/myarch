@@ -1,0 +1,21 @@
+[http]
+	proxy = http://127.0.0.1:7890
+	postBuffer = 524288000
+[https]
+	proxy = http://127.0.0.1:7890
+[safe]
+	directory = /home/alan/.local/share/shorin-niri
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	name = Alan
+	email = ve1.11@outlook.com
