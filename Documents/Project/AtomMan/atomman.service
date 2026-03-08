@@ -1,0 +1,14 @@
+[Unit]
+Description=Minisforum AtomMan X7 Ti Screen Daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/atomman/screen.py --start-delay 5
+WorkingDirectory=/opt/atomman
+Restart=always
+RestartSec=3
+User=alan
+Group=uucp
+
+[Install]
+WantedBy=multi-user.target
