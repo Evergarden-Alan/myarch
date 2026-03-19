@@ -58,6 +58,7 @@ binds {
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+T hotkey-overlay-title="终端 Terminal" { spawn "kitty" "--single-instance"; }
+    Mod+Return hotkey-overlay-title="终端 Terminal" { spawn "kitty" "--single-instance"; }
 
     Mod+P hotkey-overlay-title="Vscode" { spawn "code" "--single-instance"; }
     Mod+D hotkey-overlay-title="Obsidian" { spawn "obsidian" "--single-instance"; }
