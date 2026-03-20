@@ -24,6 +24,7 @@ environment {
     // 设置界面语言
     LANG "zh_CN.UTF-8"
     LC_CTYPE "en_US.UTF-8" //这一项可以解决漏字问题，但是也许会导致steam之类的x11应用无法使用中文输入法
+    //LC_CTYPE "zh_CN.UTF-8" 
     // 输入法环境变量
     XMODIFIERS "@im=fcitx"
     // qt主题
@@ -35,6 +36,14 @@ environment {
     GSK_RENDERER "gl"
     // 默认文本编辑器
     EDITOR "vim"
+
+    // 必须添加：针对 Steam 和 SDL 游戏的输入法支持
+    SDL_IM_MODULE "fcitx"
+    
+    // 补全：针对 GTK 和 Qt 应用的保底方案
+    GTK_IM_MODULE "fcitx"
+    QT_IM_MODULE "fcitx"
+
     
 }
 
@@ -196,7 +205,7 @@ spawn-at-startup "mako"
 // 任务栏
 spawn-at-startup "waybar"
 // 输入法
-spawn-at-startup "fcitx5" 
+spawn-at-startup "fcitx5" "-d"
 // 剪贴板守护进程
 	//cliphist
 spawn-at-startup "wl-paste" "--watch" "cliphist" "store"
