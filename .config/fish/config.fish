@@ -15,10 +15,16 @@ function y
     rm -f -- "$tmp"
 end
 
+function cat
+    command bat $argv
+end
 function ls
     command eza --icons $argv
 end
 
+function lt
+    command eza --icons --tree $argv
+end
 # grub
 abbr grub 'sudo grub-mkconfig -o /boot/grub/grub.cfg'
 # 小黄鸭补帧 需要steam安装正版小黄鸭
@@ -33,7 +39,7 @@ function 滚
     sysup
 end
 function raw
-    command ~/.config/scripts/random-anime-wallpaper.sh $argv
+    command ~/.local/bin/random-anime-wallpaper-dms $argv
 end
 
 function 安装
@@ -48,21 +54,10 @@ end
 set -gx PATH $PATH /home/shorin/.lmstudio/bin
 # End of LM Studio CLI section
 
-function y
-    # 1. 使用 -l 确保变量只在本次函数运行中有效
-    set -l tmp (mktemp -t "yazi-cwd.XXXXXX")
+set -gx PATH $HOME/.npm-global/bin $PATH
 
-    # 2. 明确调用 command yazi，并只传递当前输入的参数 $argv
-    # 注意：不要在 $argv 后面再手动加重复的参数
-    command yazi $argv --cwd-file="$tmp"
-
-    # 3. 检查文件并跳转
-    if test -f "$tmp"
-        set -l cwd (cat -- "$tmp")
-        if test -n "$cwd"; and test "$cwd" != "$PWD"
-            builtin cd -- "$cwd"
-        end
-        rm -f -- "$tmp"
-    end
+# 管理 dotfiles 的裸仓库别名
+function dot
+    command git --git-dir=$HOME/.dotfiles --work-tree=$HOME $argv
 end
-alias dot='/usr/bin/git --git-dir=/home/alan/.dotfiles/ --work-tree=/home/alan'
+
