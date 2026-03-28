@@ -6,6 +6,10 @@ set -p PATH ~/.local/bin
 starship init fish | source
 zoxide init fish --cmd cd | source
 
+function c
+    command claude
+end
+
 function y
     set tmp (mktemp -t "yazi-cwd.XXXXXX")
     yazi $argv --cwd-file="$tmp"
@@ -60,4 +64,3 @@ set -gx PATH $HOME/.npm-global/bin $PATH
 function dot
     command git --git-dir=$HOME/.dotfiles --work-tree=$HOME $argv
 end
-
